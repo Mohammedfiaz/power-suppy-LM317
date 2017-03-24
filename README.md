@@ -10,8 +10,11 @@ COMPONENTS LIST
 6. 5k potentiometer
 7. 1K resistor 1% tolerance 
 8.  Red 5mm LED
-9. I2C 16X2 Character LCD
+9. I2C 16X2 character LCD
 10. 23 V transformer 
 11. Adafruit Perma-Proto Half-sized Breadboard PCB
 12. BNC T-Connector
 13. BNC Male Plug to Dual Hook Clip Oscilloscope Test Leads Coaxial Cable
+14. Different colored 22 AWG stranded core wire
+15. Male to Female jumper wires 
+16. Female to Female jumper wires
