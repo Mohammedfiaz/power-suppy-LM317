@@ -13,3 +13,5 @@ COMPONENTS LIST
 9. I2C 16X2 Character LCD
 10. 23 V transformer 
 11. Adafruit Perma-Proto Half-sized Breadboard PCB
+12. BNC T-Connector
+13. BNC Male Plug to 2 Alligator Clip Oscilloscope Probe Test Lead 
