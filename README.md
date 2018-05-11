@@ -18,3 +18,6 @@ COMPONENTS LIST
 14. Different colored 22 AWG stranded core wire
 15. Male to Female jumper wires 
 16. Female to Female jumper wires
+
+
+![schematic picture](./schematicPicture.png)
